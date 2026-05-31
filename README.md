@@ -19,7 +19,7 @@ $ echo "Welcome to my GitHub profile!"
 
 <hr>
 
-<h3 align="center">💻 Technical Skills</h3>
+<h2 align="center">💻 Technical Skills</h2>
 
 <!--
 **gabyisv/gabyisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
