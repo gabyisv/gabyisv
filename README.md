@@ -20,6 +20,16 @@ $ echo "Welcome to my GitHub profile!"
 <hr>
 
 <h2 align="center">💻 Technical Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,spring,mysql" />
+</p>
+
+<h2 align="center">🛠️ Tools & Environments</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,idea,docker,postman,figma" />
+</p>
+
+
 
 <!--
 **gabyisv/gabyisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
