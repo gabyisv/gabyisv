@@ -46,7 +46,8 @@ $ echo "Welcome to my GitHub profile!"
 </p>
 
 <hr>
-<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyM3ZycW9xamR5NXpieXVxOHI0MzNndWp4cWYyNGVvYWhnb2ZkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
+
+<p align="center" > <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyM3ZycW9xamR5NXpieXVxOHI0MzNndWp4cWYyNGVvYWhnb2ZkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/></p>
 
 <!--
 **gabyisv/gabyisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
