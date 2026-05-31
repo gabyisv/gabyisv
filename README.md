@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E3A6AE&text=Gabrielly%20Silva&fontAlign=50&fontColor=ffff&animation=fadeIn"/>
+<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3AxcHlua2J0NzFidXdpNTNyNjMwZjh5eDZuMjA5dTJlZzhoY29wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx5e8vTQDs1Mc/giphy.gif"/></p>
 
 <!--
 **gabyisv/gabyisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
