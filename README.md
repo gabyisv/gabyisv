@@ -53,6 +53,9 @@ $ echo "Welcome to my GitHub profile!"
 
 <p align="center" > <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyM3ZycW9xamR5NXpieXVxOHI0MzNndWp4cWYyNGVvYWhnb2ZkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/></p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E3A6AE&text=Gabrielly%20Silva&fontAlign=50&fontColor=ffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=200&color=E3A6AE&section=footer)"/>
+
+
 
 <!--
 **gabyisv/gabyisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
