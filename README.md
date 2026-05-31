@@ -46,7 +46,7 @@ $ echo "Welcome to my GitHub profile!"
 </p>
 
 <hr>
-<img align="center" src="https://tenor.com/pt-BR/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862"/>
+<div class="tenor-gif-embed" data-postid="7933003135340137862" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862">Tux Linux Tux Sticker</a>from <a href="https://tenor.com/search/tux-stickers">Tux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
