@@ -49,17 +49,6 @@ $ echo "Welcome to my GitHub profile!"
 
 <p align="center" > <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyM3ZycW9xamR5NXpieXVxOHI0MzNndWp4cWYyNGVvYWhnb2ZkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/></p>
 
-![Metrics](https://raw.githubusercontent.com/gabyisv/gabyisv/main/github-metrics.svg)
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabyisv&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyisv&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabyisv&theme=tokyo-night&hide_border=true"/>
-</p>
-
 <!--
 **gabyisv/gabyisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
