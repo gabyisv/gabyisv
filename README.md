@@ -48,10 +48,8 @@ $ echo "Welcome to my GitHub profile!"
 <hr>
 
 <p align="center" > <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyM3ZycW9xamR5NXpieXVxOHI0MzNndWp4cWYyNGVvYWhnb2ZkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/></p>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabyisv&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyisv&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabyisv&theme=radical">
 </p>
 
 <!--
