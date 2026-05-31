@@ -45,6 +45,9 @@ $ echo "Welcome to my GitHub profile!"
   <img src="https://img.shields.io/badge/MySQL_Workbench-21759B?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+<hr>
+<img align="center" src="https://tenor.com/pt-BR/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862"/>
+
 
 
 <!--
